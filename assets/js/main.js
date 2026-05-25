@@ -24,6 +24,6 @@ if (contactForm) {
       "",
       data.get("message") || ""
     ].join("\n");
-    window.location.href = `mailto:hello@braidsbymiami.com?subject=${subject}&body=${encodeURIComponent(message)}`;
+    window.location.href = `mailto:beautybyyulis@gmail.com?subject=${subject}&body=${encodeURIComponent(message)}`;
   });
 }
